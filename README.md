@@ -1,6 +1,6 @@
 # binary-scanner
 
-A simple binary scanner client and server, written in Go. 
+A simple binary scanner composed of a client and server, written in Go. 
 
 ## Server
 1. Accepts file metadata via:
